@@ -1,0 +1,5 @@
+user_id,group,converted,revenue,time_on_site
+1,control,0,0,120
+2,control,1,500,300
+3,treatment,1,700,360
+4,treatment,0,0,180
